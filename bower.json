@@ -1,24 +1,25 @@
 {
-  "name": "polyter-elements",
+  "name": "steroid-elements",
   "version": "1.0.0",
-  "description": "Poyter elements for routing handling with steroids",
+  "description": "Make your polymer app powerful with steroids",
   "keywords": [
     "web-components",
     "polymer",
+    "steroid",
     "utility",
     "routing",
     "advanced"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bquarks/polyter-elements.git"
+    "url": "git://github.com/bquarks/steroid-elements.git"
   },
   "dependencies": {
-    "bq-polyter": "bquarks/polyter#^1.2.0"
+    "steroid-polyter": "bquarks/steroid-polyter#^1.3.0"
   },
   "homepage": "https://github.com/bquarks",
   "authors": [
-    "Mundo Reader S.L"
+    "bq.com"
   ],
   "license": "",
   "ignore": [
