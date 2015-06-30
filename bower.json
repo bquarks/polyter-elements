@@ -1,0 +1,31 @@
+{
+  "name": "polyter-elements",
+  "version": "1.0.0",
+  "description": "Poyter elements for routing handling with steroids",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "utility",
+    "routing",
+    "advanced"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bquarks/polyter-elements.git"
+  },
+  "dependencies": {
+    "bq-polyter": "bquarks/polyter#^1.2.0",
+  },
+  "homepage": "https://github.com/bquarks",
+  "authors": [
+    "Mundo Reader S.L"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
